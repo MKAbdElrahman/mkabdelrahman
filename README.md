@@ -1,8 +1,6 @@
 ### Hi there! 👋
 
-I'm Mohamed Kamal. Welcome to my GitHub profile!
-
-#### Blog
+Welcome to my GitHub profile!
 
 I occasionally write technical articles on my [blog](https://mkabdelrahman.github.io/posts/).
 
